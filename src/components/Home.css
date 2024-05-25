@@ -1,0 +1,17 @@
+.home-container {
+    text-align: center;
+  }
+.Home {
+    background-image: url('https://source.unsplash.com/1600x900/?travel');
+    padding: 20px;
+    background-size: cover;
+}
+.Main{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width: 400px;
+    height: 400px;
+}

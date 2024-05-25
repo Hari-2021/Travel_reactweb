@@ -1,0 +1,29 @@
+.destinations-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .destinations-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .destination-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 300px;
+  }
+  
+  .destination-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .destination-card p {
+    margin: 10px 0;
+    font-size: 1.2em;
+  }
+  
